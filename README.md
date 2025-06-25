@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShashankMakhija
 - 👀 I’m interested in Software Development engineering
-- 🌱 I’m currently Backend Development
+- 🌱 I’m currently learning Backend Development
 - 📫 How to reach me shashankmak123@gmail.com
 
 <!---
